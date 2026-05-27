@@ -29,4 +29,4 @@ All models are integrated into a **Streamlit-based interactive web interface**, 
 * Scikit-learn
 * Streamlit
 
-This project demonstrates the gradual development of a recommendation system from a basic model to a more advanced and interactive machine learning application.
+This project demonstrates the gradual development of a recommendation system from a basic model to a more advanced and interactive machine learning application
