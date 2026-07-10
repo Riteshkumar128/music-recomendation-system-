@@ -17,7 +17,7 @@ An improved model that allows users to filter recommendations based on various m
 **Level 3 – Advanced Recommendation System with Mood Detection**
 A more advanced implementation that introduces mood-based recommendations (e.g., Happy, Sad, Sleepy). The system analyzes audio features such as energy, sadness, and acousticness to suggest songs that match the user's mood.
 
-All models are integrated into a **Streamlit-based interactive web interface**, allowing users to easily explore recommendations through song input, feature selection, and mood-based filtering.
+All models are integrated into a **Streamlit-based interactive web interface**, allowing users to easily explore recommendations through song input, feature selection, and mood-based filtering
 
 **Technologies Used**
 
